@@ -202,11 +202,77 @@ section h2{
     gap:15px;
     list-style:none;
 }
-
 #skills li,
 #certificates li{
     background:white;
     padding:12px 22px;
     border-radius:10px;
     box-shadow:0 5px 15px rgba(0,0,0,.08);
+}
+#skills{
+    padding:100px 8%;
+    background:white;
+}
+
+.skills-container{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    gap:18px;
+}
+
+.skill{
+    background:#2563eb;
+    color:white;
+    padding:14px 24px;
+    border-radius:30px;
+    font-weight:600;
+    transition:.3s;
+}
+
+.skill:hover{
+    transform:translateY(-5px);
+    background:#1d4ed8;
+}
+#certificates{
+    padding:100px 8%;
+    background:#f8fafc;
+}
+
+.certificate-container{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+    gap:25px;
+}
+
+.certificate-card{
+    background:white;
+    padding:30px;
+    border-radius:18px;
+    box-shadow:0 10px 30px rgba(0,0,0,.08);
+    transition:.3s;
+}
+
+.certificate-card:hover{
+    transform:translateY(-8px);
+}
+
+.certificate-card h3{
+    color:#2563eb;
+    margin-bottom:10px;
+}
+#contact{
+    background:#0f172a;
+    color:white;
+    text-align:center;
+}
+
+.contact-container p{
+    margin:20px 0;
+    font-size:18px;
+}
+
+.contact-container a{
+    color:#38bdf8;
+    text-decoration:none;
 }

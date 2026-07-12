@@ -35,11 +35,6 @@ nav h2{
     color:white;
     font-size:28px;
 }
-.avatar h1{
-    color:#2563eb;
-    font-size:60px;
-    margin:0;
-}
 
 nav ul{
     display:flex;
@@ -75,18 +70,16 @@ nav a:hover{
 .avatar{
     width:150px;
     height:150px;
-    margin:auto;
-    margin-bottom:30px;
     border-radius:50%;
     background:white;
     color:#2563eb;
     display:flex;
     justify-content:center;
     align-items:center;
+    margin:0 auto 30px;
     font-size:60px;
-    font-weight:bold;
+    font-weight:700;
 }
-
 .hero h1{
     font-size:58px;
     margin-bottom:10px;
@@ -126,10 +119,4 @@ nav a:hover{
 .secondary{
     background:#2563eb;
     color:white;
-}
-.avatar h1{
-    color:#2563eb;
-    font-size:60px;
-    margin:0;
-    line-height:1;
 }

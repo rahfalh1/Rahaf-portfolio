@@ -276,3 +276,14 @@ section h2{
     color:#38bdf8;
     text-decoration:none;
 }
+footer{
+    background:#0f172a;
+    color:white;
+    text-align:center;
+    padding:25px;
+}
+
+footer p{
+    margin:5px 0;
+    color:#cbd5e1;
+}

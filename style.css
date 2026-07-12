@@ -35,6 +35,11 @@ nav h2{
     color:white;
     font-size:28px;
 }
+.avatar h1{
+    color:#2563eb;
+    font-size:60px;
+    margin:0;
+}
 
 nav ul{
     display:flex;

@@ -1,8 +1,11 @@
 # Rahaf-portfolio
 
-## Overview
+Personal portfolio website showcasing my skills, projects, certifications, and technical background as an Information Technology student.
 
-This repository contains my personal portfolio website, created to showcase my skills, academic projects, certifications, and interests as an Information Technology student.
+## Live Website
+
+https://rahfalh1.github.io/Rahaf-portfolio/
+
 
 ## Features
 
@@ -22,10 +25,10 @@ This repository contains my personal portfolio website, created to showcase my s
 
 The portfolio showcases different academic and technical projects, including:
 
-* Web development projects
-* Machine learning projects
-* Software design and analysis projects
-* Technical projects
+* Cinema Booking Website
+* Image Classification using Teachable Machine
+* Simple Quadruped Robot Dog
+* Aleef System (Software Analysis & Design)
 
 ## Deployment
 
@@ -33,6 +36,8 @@ The website is deployed using GitHub Pages.
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/rahaf-alharbi-it
+LinkedIn:
+https://www.linkedin.com/in/rahaf-alharbi-it
 
-GitHub: https://github.com/rahfalh1
+GitHub:
+https://github.com/rahfalh1
